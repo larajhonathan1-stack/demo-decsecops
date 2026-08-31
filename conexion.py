@@ -1,1 +1,1 @@
-aws_secret_key = "AKIAIMNOQD4JPO9EEBLA"
+github_token = "ghp_TestSecretKeyPatternDonotUse1234567"
